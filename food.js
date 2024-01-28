@@ -1,3 +1,4 @@
 namkeen
 biscuit
 sweets
+fastfood
